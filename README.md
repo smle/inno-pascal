@@ -1,9 +1,7 @@
 Inno Pascal
 ===========
 
-Copyright (C) 2000 Jordan Russell. All rights reserved.
-
-Download version 0.1.5 (date 2000-10-12, approx. 390 KB)
+Copyright (C) 2000 [Jordan Russell](http://www.jrsoftware.org/). All rights reserved.
 
 Usage: After unzipping, start IP.exe. Then open one of the files in the Examples subdirectory for a compilable example.
 
